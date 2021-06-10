@@ -1,0 +1,10 @@
+PNR    :BD_2021JUNE11_101
+trainNo    :1001
+trainName   :ShatabdiExpress
+From   :Bangalore
+To   :Delhi
+Travel Date   :11/JUNE/2021
+
+Passengers :Name   Age   Gender   Fare
+liam   29   M   2500
+?
